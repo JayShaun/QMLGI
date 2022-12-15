@@ -1,4 +1,4 @@
-## This code is used to generate the results of the paper "Quantum machine learning enhanced ghost imaging."
+## This code is used to generate the results of the paper "Practical advantage of quantum machine learning in ghost imaging."
 
 
 The trained model in QML is large and we cannot upload here. One can run the code directly to generate the results presented in the paper. 
